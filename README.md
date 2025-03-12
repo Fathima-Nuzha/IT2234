@@ -27,6 +27,7 @@ Topics Covered:
  2.Run the file using Node.js:
  
  3. Type below code
-    node practical1.js
+    
+        node practical1.js
     
  4.Check the Screenshots folder for expected outputs.

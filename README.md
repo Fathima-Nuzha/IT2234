@@ -1,5 +1,7 @@
 **Day-01:Basic JavaScript Concepts**
+
 Topics Covered:
+
 1. Variables & Data Types
 2. Operators
 3. Conditional Statements

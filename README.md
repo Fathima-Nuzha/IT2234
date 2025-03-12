@@ -1,17 +1,18 @@
-📜 Day-01:Basic JavaScript Concepts
+**Day-01:Basic JavaScript Concepts**
 Topics Covered:
-✅ Variables & Data Types
-✅ Operators
-✅ Conditional Statements
-✅ Loops
+1. Variables & Data Types
+2. Operators
+3. Conditional Statements
+4. Loops
+
 
 **Features**
-✔️ Addition, Subtraction, Division, and Multiplication of two numbers.
-✔️ Printing numbers between two inputs.
-✔️ Printing numbers in reverse order.
-✔️ Identifying and printing odd numbers between two inputs.
-✔️ Implementing basic conditional logic.
-✔️ Executing simple functions for different tasks.
+1. Addition, Subtraction, Division, and Multiplication of two numbers.
+2. Printing numbers between two inputs.
+3. Printing numbers in reverse order.
+4. Identifying and printing odd numbers between two inputs.
+5. Implementing basic conditional logic.
+6. Executing simple functions for different tasks.
 
 **Technologies Used**
   JavaScript
